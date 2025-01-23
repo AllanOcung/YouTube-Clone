@@ -15,3 +15,19 @@ CSS3: For styling the layout, including flexbox and media queries for responsive
 Preview
 ![YouTube clone](https://github.com/user-attachments/assets/0f78612c-e141-40bc-bc96-15bedf2ad062)
 
+How to Run the Project
+Clone this repository to your local machine:
+
+git clone https://github.com/yourusername/youtube-clone.git
+
+Navigate to the project directory:
+
+cd youtube-clone
+
+Open index.html in your favorite web browser.
+
+Future Improvements
+Add interactivity using JavaScript.
+Implement backend functionality to handle video uploads and user accounts.
+Enhance the design with animations and hover effects.
+
